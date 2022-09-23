@@ -1,9 +1,7 @@
 package com.example.demo_project_spring_crud.entity;
 
 import lombok.Data;
-import lombok.Getter;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 
 import javax.persistence.*;
 
